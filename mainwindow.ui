@@ -6,7 +6,7 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>302</width>
+    <width>301</width>
     <height>542</height>
    </rect>
   </property>
@@ -650,7 +650,7 @@
      <rect>
       <x>10</x>
       <y>10</y>
-      <width>290</width>
+      <width>281</width>
       <height>149</height>
      </rect>
     </property>
@@ -681,7 +681,7 @@
        <item>
         <widget class="QPushButton" name="detect_bot_button">
          <property name="text">
-          <string>Detect Bot</string>
+          <string>Detect Bots</string>
          </property>
         </widget>
        </item>

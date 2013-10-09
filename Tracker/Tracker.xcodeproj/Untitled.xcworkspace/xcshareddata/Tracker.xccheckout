@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>1835B8A6-D217-432D-92EF-FDAE23ADA1C3</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Tracker</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>305E9825-40B3-4DCE-86D1-2C288B0414D2</key>
+		<string>https://github.com/Dustinschie/Grid_detector.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Tracker/Tracker.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>305E9825-40B3-4DCE-86D1-2C288B0414D2</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Dustinschie/Grid_detector.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>305E9825-40B3-4DCE-86D1-2C288B0414D2</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>305E9825-40B3-4DCE-86D1-2C288B0414D2</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Grid_detector</string>
+		</dict>
+	</array>
+</dict>
+</plist>
